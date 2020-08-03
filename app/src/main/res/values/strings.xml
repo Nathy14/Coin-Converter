@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coin Converter</string>
+    <string name="value_real">What is the value in Real? </string>
+    <string name="value_dolar">Value in Dolar</string>
+    <string name="value_euro">Value in Euro</string>
+    <string name="calculate">Calculate</string>
+    <string name="type_value">Type a value</string>
+</resources>
