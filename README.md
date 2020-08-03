@@ -6,7 +6,7 @@ App to help you convert your coins
 
 ## How to use
 
-You type the value in Real in the input and then click in the "Calculate" button.
+Type the value in Real in the input and then click in the "Calculate" button.
 
 ## Prints of the interface
 
